@@ -1,0 +1,8 @@
+backend/.env
+frontend/.env
+backend/storage/
+frontend/node_modules/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
